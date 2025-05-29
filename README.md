@@ -16,7 +16,7 @@ This project provides a centralized reporting solution built in **Microsoft Exce
 |----------------------|-----------------------------------------------------------------------------|
 | `Data`               | Raw call center data (Call number, Customer ID, Duration, Satisfaction Rating, etc.).            |
 | `Pivots`             | Aggregated metrics using pivot tables.                                      |
-| `Call Centre Report` | Interactive dashboard with charts, KPIs, and visual analytics.              |
+| `Call Centre Performance Report` | Interactive dashboard with charts, KPIs, and visual analytics.              |
 
 ---
 
