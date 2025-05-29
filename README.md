@@ -50,7 +50,7 @@ This project provides a centralized reporting solution built in **Microsoft Exce
 ### 🎨 Formatting & Interactivity
 - Conditional formatting to highlight high/low values
 - Color-coded KPIs for quick visual cues
-- Interactive slicers to filter by agent R01, R02, R03, R04, R05
+- Interactive slicer to filter by representatives R01, R02, R03, R04, R05
 
 ---
 
