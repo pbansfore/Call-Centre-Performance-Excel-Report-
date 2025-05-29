@@ -1,6 +1,6 @@
-# 📞 Call Centre Performance Dashboard
+# 📞 Call Centre Performance Report
 
-Welcome to the **Call Centre Performance Dashboard** — a dynamic and interactive Excel dashboard designed to deliver deep insights into call center operations. This project integrates raw data, performance metrics, and visualization tools to track agent performance, analyze customer behavior, and improve operational efficiency.
+Welcome to the **Call Centre Performance Report** — a dynamic and interactive Excel dashboard designed to deliver deep insights into call center operations. This project integrates raw data, performance metrics, and visualization tools to track agent performance, analyze customer behavior, and improve operational efficiency.
 
 ---
 
@@ -77,7 +77,7 @@ This project provides a centralized reporting solution built in **Microsoft Exce
 
 ## 📌 Conclusion
 
-The **Call Centre Performance Dashboard** is a powerful tool for visualizing and improving contact center operations. Built entirely in Excel, it combines accessibility with insightful analytics — making it ideal for small to mid-sized teams.
+The **Call Centre Performance Report** is a powerful tool for visualizing and improving contact center operations. Built entirely in Excel, it combines accessibility with insightful analytics — making it ideal for small to mid-sized teams.
 
 ---
 
