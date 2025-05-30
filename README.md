@@ -81,5 +81,7 @@ The **Call Centre Performance Report** is a powerful tool for visualizing and im
 
 ---
 
+## ▶️ Video Presentation: https://drive.google.com/file/d/1h7UMP3D7wV5QSd79QrkkJwU9Tjpz1KQx/view?usp=sharing
+
 ⭐ *If you find this project helpful, please give it a star and share your feedback!*
 
